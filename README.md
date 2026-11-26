@@ -1,4 +1,4 @@
-# twodots_decrypt
+# Research
 
 Matlab/C++ implementation of Event-Based Multi-View Stereo (mapping half of Event-Based Visual Odometry). 
 
